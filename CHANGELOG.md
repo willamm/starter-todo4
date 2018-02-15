@@ -8,6 +8,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [1.1.0] - 2018-02-09
 ### Added
+- Markdown parser
+- Help Wanted page
+- Jobs listings
+
+## [1.1.0] - 2018-02-09
+### Added
 - New homepage
 - Task list
 
