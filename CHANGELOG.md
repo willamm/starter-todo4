@@ -6,6 +6,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.2.0] - 2018-02-09
+### Added
+- Added Views controller
+- Added secondary template
+
+## [1.1.0] - 2018-02-09
+### Added
+- Markdown parser
+- Help Wanted page
+- Jobs listings
+
 ## [1.1.0] - 2018-02-09
 ### Added
 - New homepage
