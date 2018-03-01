@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.8.0] - 2018-03-01
+### Added
+- Added item editing capabilities
+
 ## [1.7.0] - 2018-03-01
 ### Added
 - Added Owner and Guest views to the maintenance page
