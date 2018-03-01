@@ -6,7 +6,13 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [1.3.0] - 2-18-02-09
+## [1.4.0] - 2018-03-01
+### Added
+- Added Pagination
+- Added support to MTCE controller
+- Added itemnav view
+
+## [1.3.0] - 2018-02-09
 ### Added
 - Added Maintenance controller
 - Improved maintenance controller
