@@ -149,4 +149,20 @@ class Mtce extends Application {
 			$this->load->helper('html');        
 			$this->data['error'] = heading($message,3);
 		}
+
+		// Forget about this edit
+		function cancel() {
+			$this->session->unset_userdata('task');
+			redirect('/mtce');
+		}
+
+		// Delete this item altogether
+		function delete()
+		{
+			$dto = $this->session->userdata('task');
+			$task = $this->tasks->get($dto->id);
+			$this->tasks->delete($task->id);
+			$this->session->unset_userdata('task');
+			redirect('/mtce');
+		}
 }
