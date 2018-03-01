@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.9.0] - 2018-03-01
+### Added
+- Added size, group, and status fields to task adding.
+
 ## [1.8.0] - 2018-03-01
 ### Added
 - Added item editing capabilities
