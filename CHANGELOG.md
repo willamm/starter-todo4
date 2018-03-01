@@ -6,13 +6,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.7.0] - 2018-03-01
+### Added
+- Added Owner and Guest views to the maintenance page
+
 ## [1.6.0] - 2018-03-01
 ### Added
 - Checkboxes and buttons to 'Work' page
 - Ability to remove tasks if u are the owner
 
 ## [1.5.0] - 2018-03-01
-### Adde
+### Added
 - Added Role controller and view
 - Set up session
 
@@ -26,7 +30,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Added Maintenance controller
 - Improved maintenance controller
-
 
 ## [1.2.0] - 2018-02-09
 ### Added
