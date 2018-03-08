@@ -31,6 +31,7 @@ class Tasks extends CSV_Model
         return $converted;
     }
 
+    // Provides form validation rules
     public function rules()
     {
         $config = array(
