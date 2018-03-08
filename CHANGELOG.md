@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.10.0] - 2018-03-01
+### Added
+- Added phpunit and composer
+- Implemented 2 phpunit tests
+
 ## [1.9.0] - 2018-03-01
 ### Added
 - Added size, group, and status fields to task adding.
