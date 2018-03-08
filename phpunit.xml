@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <phpunit bootstrap="vendor/autoload.php"
+=======
+<phpunit bootstrap="tests/Bootstrap.php"
+>>>>>>> a655b1065389ada98125f8c88b7bb2cafe2dd9ae
         backupGlobals="false"
         colors="true"
         convertErrorsToExceptions="true"
@@ -10,7 +14,11 @@
         stopOnIncomplete="false"
         stopOnSkipped="false">
     <testsuites>
+<<<<<<< HEAD
         <testsuite name="Task Test Suite">
+=======
+        <testsuite name="My Test Suite">
+>>>>>>> a655b1065389ada98125f8c88b7bb2cafe2dd9ae
             <directory>./tests/application</directory>
         </testsuite>
     </testsuites>

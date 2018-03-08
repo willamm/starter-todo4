@@ -1,5 +1,9 @@
 {
     "require-dev": {
+<<<<<<< HEAD
         "phpunit/phpunit": "7"
+=======
+        "phpunit/phpunit": "^7.0"
+>>>>>>> a655b1065389ada98125f8c88b7bb2cafe2dd9ae
     }
 }
